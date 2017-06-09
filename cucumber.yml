@@ -1,0 +1,1 @@
+default: -r qa_projetas/features/ -r qa_projetas/features/specifications step_definitions support

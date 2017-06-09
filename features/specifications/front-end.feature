@@ -1,7 +1,7 @@
 # encoding utf-8
 # language: en
 
-Funcionalidade: Automação Teste Front-End
+Feature: Automação Teste Front-End
 
 @Scenario: Pagina Inicial para login valido
 
